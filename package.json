@@ -1,0 +1,33 @@
+{
+    "name": "social-network",
+    "version": "1.0.0",
+    "description": "Social Network app",
+    "main": "server.js",
+    "dependencies": {
+      "dayjs": "^1.9.7",
+      "express": "^4.17.1",
+      "mongoose": "^5.11.7",
+      "nodemon": "^2.0.6"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js",
+      "watch": "nodemon server.js"
+    
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sabrinasaunders/social-network-API.git"
+      },
+    "keywords": [
+      "social",
+      "network"
+    ],
+    "author": "Sabrina Saunders",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Sabrinasaunders/social-network-API/issues"
+    },
+    "homepage": "https://github.com/Sabrinasaunders/social-network-API#readme"
+  }
