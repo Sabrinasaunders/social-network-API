@@ -39,6 +39,7 @@ Note: walkthrough video does not show the delete and put due to issues with inso
 See below for a screenshot and walkthrough video of the project.
 
 ![Screenshot of deployed project](<assets/images/Screenshot 2024-06-02 at 11.00.14 AM.png>)
+
 [Walkthrough video](https://watch.screencastify.com/v/oRdGiOcKa9qhbwUU8zrZ)
 ## Deployment
 
